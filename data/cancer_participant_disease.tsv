@@ -1,0 +1,502 @@
+participant_id	cancer_disease_type	cancer_disease_sub_type	participant_phenotypic_sex
+1467400	RENAL	Lobular	Female
+1103171	ADULT_GLIOMA	Adenocarcinoma	Male
+594227	BREAST	Papillary Type 1	Female
+383708	RENAL	Unknown	Male
+1083956	LUNG	Other	Male
+1580830	CHILDHOOD	Adenocarcinoma	Female
+2192570	LUNG	Endometrioid Carcinoma	Female
+2217574	COLORECTAL	Adenocarcinoma	Male
+1193496	COLORECTAL	Adenocarcinoma	Male
+1149239	LUNG	Ductal	Male
+1179844	COLORECTAL	Unknown	Female
+1147442	BREAST	Adenocarcinoma	Female
+1946742	OVARIAN	Mixed Tumour Type	Male
+558077	BREAST	Squamous Cell	Female
+2014706	COLORECTAL	Clear Cell Carcinoma	Female
+1407795	RENAL	Other	Female
+2284826	COLORECTAL	Carcinosarcoma	Male
+233077	CHILDHOOD	Other	Female
+2268741	LUNG	Carcinosarcoma	Female
+1680328	COLORECTAL	Adenocarcinoma	Male
+2060510	BREAST	Adenocarcinoma	Female
+602279	RENAL	Other	Female
+1184586	MALIGNANT_MELANOMA	Neuroendocrine Carcinoma	Female
+1511929	COLORECTAL	Adenocarcinoma	Female
+2340878	RENAL	Clear Cell Carcinoma	Female
+2124687	RENAL	Ductal	Female
+1918629	COLORECTAL	Unknown	Male
+1978960	BREAST	Ductal	Female
+1921689	CHILDHOOD	Unknown	Male
+1404275	SARCOMA	Adenocarcinoma	Male
+1655037	COLORECTAL	Unknown	Female
+1618434	COLORECTAL	Unknown	Male
+1056162	COLORECTAL	Not Available	Male
+611544	BLADDER	Chromophobe	Male
+1607369	COLORECTAL	Unknown	Male
+2218606	OVARIAN	Not Available	Female
+874197	BREAST	Unknown	Female
+498625	ENDOMETRIAL_CARCINOMA	Unknown	Male
+212799	COLORECTAL	Ductal	Female
+1618642	ENDOMETRIAL_CARCINOMA	Adenocarcinoma	Male
+790796	COLORECTAL	Other	Male
+881061	BLADDER	Adenocarcinoma	Female
+1055407	HAEMONC	Squamous Cell	Female
+1812652	COLORECTAL	Other	Female
+550687	LUNG	(All) Acute Lymphoblastic Leukaemia	Female
+1767933	RENAL	Unknown	Male
+1722242	SARCOMA	Ductal	Male
+229001	RENAL	Unknown	Male
+2052027	COLORECTAL	(Aml) Acute Myeloid Leukaemia	Male
+909162	PROSTATE	Mesothelioma	Male
+1506498	COLORECTAL	Adenocarcinoma	Male
+57451	ORAL_OROPHARYNGEAL	Ductal	Male
+5909	ENDOMETRIAL_CARCINOMA	Unknown	Male
+160667	SARCOMA	Clear Cell Carcinoma	Female
+180105	SARCOMA	Adenocarcinoma	Male
+1587861	LUNG	Unknown	Female
+473033	ADULT_GLIOMA	Unknown	Male
+661081	SARCOMA	Unknown	Female
+896650	SARCOMA	High Grade Serous Carcinoma	Female
+542253	RENAL	Mucinous Carcinoma	Male
+484191	OVARIAN	Ductal	Female
+2227879	ADULT_GLIOMA	Squamous Cell	Female
+428432	OVARIAN	Non Specified Renal Carcinoma	Female
+1280380	LUNG	Leiomyosarcoma From All Sites	Male
+2157763	LUNG	Glioblastoma	Female
+624906	COLORECTAL	Sarcoma Nos	Male
+6087	MALIGNANT_MELANOMA	Glioblastoma	Female
+79478	LUNG	Squamous Cell	Male
+2309649	LUNG	Adenocarcinoma	Male
+1154	BREAST	Ductal	Female
+1630929	HAEMONC	Unknown	Male
+2260773	OVARIAN	Unknown	Female
+1502911	MALIGNANT_MELANOMA	(Aml) Acute Myeloid Leukaemia	Male
+819306	BREAST	Unknown	Female
+1909949	COLORECTAL	Unknown	Female
+705280	BREAST	Adenocarcinoma	Male
+2057812	SARCOMA	Clear Cell Adenocarcinoma	Male
+2145219	LUNG	Ductal	Male
+840221	RENAL	Ductal	Male
+2224656	PROSTATE	Glioblastoma	Male
+1227136	COLORECTAL	Ductal	Female
+79935	ENDOMETRIAL_CARCINOMA	Squamous Cell	Male
+1205343	RENAL	High Grade Serous Carcinoma	Male
+823958	LUNG	Unknown	Female
+132147	COLORECTAL	Myxofibrosarcoma	Female
+2263629	LUNG	Squamous Cell	Female
+295905	BREAST	Adenocarcinoma	Female
+1839353	BREAST	Haematological Malignancy Unclassified	Female
+1776364	BLADDER	Adenocarcinoma	Female
+501549	COLORECTAL	Adenocarcinoma	Female
+2218594	COLORECTAL	Adenocarcinoma	Female
+617680	COLORECTAL	Adenocarcinoma	Female
+1102725	BREAST	Large Cell	Male
+1472294	PROSTATE	Clear Cell Carcinoma	Male
+137320	HAEMONC	Other	Male
+2087696	ENDOMETRIAL_CARCINOMA	Chronic Lymphocytic Leukaemia	Male
+1908771	COLORECTAL	Ductal	Male
+1303309	COLORECTAL	Unknown	Male
+1598613	SARCOMA	Other	Female
+91416	OVARIAN	Unknown	Male
+2091965	RENAL	Unknown	Male
+2117574	HAEMONC	Unknown	Male
+160881	COLORECTAL	Adenocarcinoma	Male
+209268	SARCOMA	Primary Conventional Osteosarcoma	Male
+1224591	COLORECTAL	Unknown	Male
+2120697	BLADDER	Lobular	Male
+1030864	LUNG	Ductal	Female
+1794457	BREAST	Ductal	Male
+1988647	MALIGNANT_MELANOMA	Unknown	Female
+2336575	ENDOMETRIAL_CARCINOMA	Pleomorphic Sarcoma	Male
+2021236	UNKNOWN	Unknown	Female
+357009	HAEMONC	Chronic Myeloid Leukaemia	Female
+105999	COLORECTAL	Adenocarcinoma	Male
+561261	BREAST	Endometrioid Carcinoma	Female
+1393996	COLORECTAL	Diffuse Astrocytoma	Male
+2286905	UPPER_GASTROINTESTINAL	Squamous Cell	Female
+112897	COLORECTAL	Squamous Cell	Male
+535578	OVARIAN	(All) Acute Lymphoblastic Leukaemia	Male
+869349	BREAST	Adenocarcinoma	Male
+1812305	RENAL	Clear Cell Carcinoma	Male
+1691184	COLORECTAL	Clear Cell Carcinoma	Male
+2107183	PROSTATE	Adenocarcinoma	Male
+1878486	COLORECTAL	Adenocarcinoma	Female
+597092	LUNG	Other	Female
+269627	SINONASAL	Unknown	Female
+1939896	HAEMONC	Ductal	Male
+340907	RENAL	Mixed Tumour Type	Male
+1350335	BREAST	Not Available	Female
+332419	SARCOMA	Lobular	Male
+835927	CHILDHOOD	Unknown	Male
+510824	ADULT_GLIOMA	Adenocarcinoma	Male
+1928710	COLORECTAL	Conventional Chondrosarcoma	Male
+1028258	ADULT_GLIOMA	Unknown	Male
+706793	BREAST	Adenocarcinoma	Female
+1372461	LUNG	Unknown	Female
+964817	SINONASAL	Glioblastoma	Male
+504149	ENDOMETRIAL_CARCINOMA	Clear Cell Carcinoma	Female
+1991652	ADULT_GLIOMA	Childhood Other	Male
+632836	BREAST	Unknown	Female
+2380892	COLORECTAL	Adenocarcinoma	Male
+1564473	BREAST	Adenocarcinoma	Female
+255883	RENAL	Chronic Myeloid Leukaemia	Female
+450841	ADULT_GLIOMA	Lobular	Female
+1137252	ENDOMETRIAL_CARCINOMA	Ductal	Male
+2349353	BREAST	Pancreatic Adenocarcinoma	Male
+931453	OVARIAN	Other	Female
+966847	MALIGNANT_MELANOMA	Adenocarcinoma	Female
+1200934	COLORECTAL	Unknown	Female
+918676	COLORECTAL	Unknown	Male
+1264819	LUNG	Unknown	Male
+1997149	COLORECTAL	Clear Cell Carcinoma	Female
+2055677	BLADDER	Ductal	Male
+1817936	COLORECTAL	Unknown	Male
+773769	ORAL_OROPHARYNGEAL	Glioblastoma	Male
+39923	ORAL_OROPHARYNGEAL	Glioblastoma	Female
+1589718	OVARIAN	Lobular	Female
+29967	HAEMONC	Not Available	Female
+920639	ADULT_GLIOMA	Endometrioid Carcinoma	Male
+610279	ADULT_GLIOMA	Unknown	Female
+257048	COLORECTAL	Clear Cell Carcinoma	Female
+1055166	ENDOMETRIAL_CARCINOMA	Leiomyosarcoma From All Sites	Female
+1998698	RENAL	Hpv Negative Oropharyngeal Cancer	Female
+2213422	RENAL	Adenocarcinoma	Female
+361833	COLORECTAL	Adenocarcinoma	Female
+218490	MALIGNANT_MELANOMA	Unknown	Male
+616787	LUNG	Unknown	Male
+1575867	SARCOMA	Endometrioid Carcinoma	Male
+2218674	ORAL_OROPHARYNGEAL	Unknown	Female
+1023371	COLORECTAL	Adenocarcinoma	Male
+239702	ORAL_OROPHARYNGEAL	Unknown	Female
+2073605	ORAL_OROPHARYNGEAL	Not Available	Female
+2327488	BREAST	Squamous Cell	Female
+2046353	LUNG	Clear Cell Carcinoma	Male
+1055218	RENAL	Other	Male
+1445990	RENAL	Hpv Negative Oropharyngeal Cancer	Female
+844926	RENAL	Other	Male
+2250891	BREAST	Adenocarcinoma	Male
+1101837	ENDOMETRIAL_CARCINOMA	Adenocarcinoma	Female
+1397234	BLADDER	Adenocarcinoma	Female
+1810332	OVARIAN	Endometrioid Carcinoma	Male
+1517295	OVARIAN	Unknown	Female
+672358	COLORECTAL	Adenocarcinoma	Male
+1231329	COLORECTAL	Clear Cell Carcinoma	Male
+298454	COLORECTAL	Adenocarcinoma	Female
+597460	LUNG	Pancreatic Adenocarcinoma	Female
+512212	LUNG	Synovial Sarcoma - Monophasic And Biphasic	Female
+1864412	MALIGNANT_MELANOMA	Endometrioid Carcinoma	Male
+2035453	HAEMONC	Other	Female
+1510007	ORAL_OROPHARYNGEAL	Unknown	Female
+941966	UPPER_GASTROINTESTINAL	Glioblastoma	Female
+1967987	BREAST	Other	Male
+1238705	HAEMONC	Adenocarcinoma	Female
+2128308	BREAST	Other	Female
+1516397	BREAST	Unknown	Female
+1052607	COLORECTAL	Adenocarcinoma	Female
+1885515	RENAL	Other	Female
+873224	CHILDHOOD	Squamous Cell	Female
+849381	BREAST	Unknown	Female
+254446	ENDOMETRIAL_CARCINOMA	Other	Male
+370680	HAEMONC	Clear Cell Carcinoma	Female
+1304744	LUNG	Unknown	Male
+2263974	LUNG	Glioblastoma	Male
+1508414	HAEMONC	Unknown	Male
+853488	PROSTATE	Adenocarcinoma	Female
+2199928	BREAST	Unknown	Female
+1645248	LUNG	Adenocarcinoma	Female
+628578	MALIGNANT_MELANOMA	Adenocarcinoma	Male
+1293377	ENDOMETRIAL_CARCINOMA	Lobular	Male
+796389	RENAL	Acral Lentiginous	Female
+230650	CARCINOMA_OF_UNKNOWN_PRIMARY	Ductal	Female
+2366909	HAEMONC	Pleomorphic Sarcoma	Male
+854386	SARCOMA	Adenocarcinoma	Female
+1802532	COLORECTAL	Unknown	Male
+1766161	CHILDHOOD	High Grade Serous Carcinoma	Female
+1572088	COLORECTAL	Lobular	Male
+1593527	SARCOMA	Chronic Lymphocytic Leukaemia	Female
+1223223	HAEMONC	Adenocarcinoma	Male
+51340	HEPATOPANCREATOBILIARY	Adenocarcinoma	Female
+967785	BREAST	Clear Cell Carcinoma	Female
+146749	RENAL	Ductal	Female
+840351	COLORECTAL	Adenocarcinoma	Male
+799412	COLORECTAL	Ductal	Female
+99003	OVARIAN	Unknown	Female
+2245932	SARCOMA	Ductal	Female
+1769439	LUNG	Pancreatic Neuroendocrine Carcinoma	Male
+2378235	TESTICULAR_GERM_CELL_TUMOURS	Adenocarcinoma	Female
+919327	ADULT_GLIOMA	Unknown	Male
+1852109	COLORECTAL	Unknown	Male
+106260	ADULT_GLIOMA	Clear Cell Carcinoma	Female
+41511	RENAL	Adenocarcinoma	Male
+482828	BREAST	Ductal	Female
+1170689	COLORECTAL	Other	Male
+1478262	BREAST	Ductal	Female
+853115	BREAST	Clear Cell Carcinoma	Female
+915430	OVARIAN	Hpv Negative Oropharyngeal Cancer	Male
+108256	PROSTATE	Adenocarcinoma	Female
+462672	BREAST	Not Available	Male
+1995266	OVARIAN	Lobular	Male
+1682376	COLORECTAL	Unknown	Male
+2114075	HAEMONC	Adenocarcinoma	Male
+864371	BREAST	Unknown	Female
+1008282	COLORECTAL	Unknown	Female
+1534073	PROSTATE	Clear Cell Carcinoma	Female
+913384	COLORECTAL	Unknown	Male
+1670153	ENDOMETRIAL_CARCINOMA	Adenocarcinoma	Male
+1808980	LUNG	Ductal	Female
+1256150	BREAST	Adenocarcinoma	Male
+581381	BREAST	Squamous Cell	Female
+667837	RENAL	Adenocarcinoma	Female
+1039357	RENAL	Adenocarcinoma	Male
+1945769	LUNG	Unknown	Male
+783778	SARCOMA	Unknown	Female
+1838317	BREAST	Adenocarcinoma	Female
+383455	UNKNOWN	Unknown	Male
+1523298	SARCOMA	Adenocarcinoma	Male
+1598991	RENAL	(Aml) Acute Myeloid Leukaemia	Female
+978145	RENAL	Adenocarcinoma	Female
+968295	HEPATOPANCREATOBILIARY	Unknown	Female
+179606	BREAST	Papillary Type 2	Male
+2112067	COLORECTAL	Adenocarcinoma	Female
+1848936	HAEMONC	Myleoproliferative Neoplasms	Female
+589547	BREAST	Adenocarcinoma	Female
+1333263	SARCOMA	Ductal	Female
+1612148	LUNG	Mucinous Carcinoma	Male
+1095762	LUNG	Clear Cell Carcinoma	Male
+973322	COLORECTAL	Other	Male
+1140544	BREAST	Adenocarcinoma	Female
+280951	LUNG	Glioblastoma	Male
+1448163	HAEMONC	Adenocarcinoma	Female
+2031052	SARCOMA	Other	Male
+859251	ENDOMETRIAL_CARCINOMA	Ductal	Female
+1862058	OVARIAN	Ductal	Female
+198531	SARCOMA	Other	Female
+85378	OVARIAN	Endometrioid Carcinoma	Male
+501797	HEPATOPANCREATOBILIARY	Glioblastoma	Male
+398901	BREAST	Other	Male
+1771559	RENAL	Chronic Lymphocytic Leukaemia	Male
+2213797	BREAST	Squamous Cell	Female
+1551243	UPPER_GASTROINTESTINAL	Not Available	Female
+171574	HAEMONC	Hpv Negative Oropharyngeal Cancer	Female
+649591	COLORECTAL	Childhood Other	Male
+1982188	CHILDHOOD	Unknown	Female
+1479432	PROSTATE	Adenocarcinoma	Male
+1792091	RENAL	Unknown	Male
+1320360	COLORECTAL	Nodular	Female
+792795	HAEMONC	Unknown	Female
+1917673	COLORECTAL	Not Available	Male
+1032984	BREAST	Ductal	Female
+1307263	COLORECTAL	Unknown	Male
+1786666	COLORECTAL	Adenocarcinoma	Male
+1501717	LUNG	Unknown	Male
+717535	SARCOMA	Adenocarcinoma	Male
+1538098	RENAL	Mesothelioma	Male
+672817	BREAST	Other	Female
+694276	BREAST	Unknown	Female
+2095126	CHILDHOOD	Unknown	Female
+643361	BLADDER	Clear Cell Adenocarcinoma	Female
+364476	RENAL	Adenocarcinoma	Male
+2261763	RENAL	Adenocarcinoma	Female
+2028838	BLADDER	Unknown	Male
+147352	RENAL	Adenocarcinoma	Male
+1187058	BREAST	Unknown	Female
+1793485	ENDOMETRIAL_CARCINOMA	Hpv Negative Oropharyngeal Cancer	Female
+1164217	BLADDER	Adenocarcinoma	Male
+275136	OVARIAN	Unknown	Male
+1833431	LUNG	Leiomyosarcoma From All Sites	Female
+170856	BREAST	Chronic Lymphocytic Leukaemia	Male
+1502324	RENAL	Unknown	Female
+287625	LUNG	Unknown	Male
+1928095	ADULT_GLIOMA	Gastric Adenocarcinoma	Female
+820676	COLORECTAL	Other	Female
+1054931	LUNG	Not Available	Male
+204704	SARCOMA	Squamous Cell	Male
+494044	OVARIAN	Ductal	Female
+383110	BREAST	Endometrioid Carcinoma	Female
+767008	BREAST	Unknown	Female
+1583424	BREAST	Unknown	Male
+2293728	LUNG	Not Available	Female
+2145047	COLORECTAL	Adenocarcinoma	Female
+952195	BREAST	Lobular	Female
+809513	LUNG	Unknown	Female
+724907	COLORECTAL	Chronic Myeloid Leukaemia	Female
+1227933	BREAST	Adenocarcinoma	Male
+1865423	BREAST	Ductal	Female
+503281	SARCOMA	Lobular	Female
+1419382	HAEMONC	High Grade Serous Carcinoma	Male
+1751156	COLORECTAL	Lobular	Female
+20522	BREAST	Squamous Cell	Male
+1882464	COLORECTAL	Unknown	Male
+433739	BLADDER	Not Available	Male
+1442308	BREAST	Adenocarcinoma	Female
+1980477	RENAL	Unknown	Female
+2205015	LUNG	Ductal	Male
+395468	OVARIAN	Adenocarcinoma	Male
+2176754	BREAST	Adenocarcinoma	Female
+1676178	RENAL	Dedifferentiated Chondrosarcoma	Male
+2246643	ENDOMETRIAL_CARCINOMA	Adenocarcinoma	Female
+1244096	RENAL	Other	Female
+694496	RENAL	Ductal	Female
+2145697	COLORECTAL	Adenocarcinoma	Male
+1364525	SARCOMA	Other	Male
+1970115	ENDOMETRIAL_CARCINOMA	Adenocarcinoma	Male
+1338476	RENAL	Unknown	Male
+259059	LUNG	Lobular	Male
+484102	SARCOMA	Myxofibrosarcoma	Female
+1742665	HEPATOPANCREATOBILIARY	Adenocarcinoma	Male
+1059383	BREAST	Ductal	Female
+1064587	COLORECTAL	Unknown	Female
+878031	HAEMONC	Adenocarcinoma	Male
+243457	RENAL	(Aml) Acute Myeloid Leukaemia	Female
+890960	ADULT_GLIOMA	Adenocarcinoma	Male
+1232228	LUNG	Other	Female
+379644	PROSTATE	Unknown	Female
+1246601	RENAL	Lobular	Male
+518234	SARCOMA	Other	Male
+156787	ENDOMETRIAL_CARCINOMA	Mixed Tumour Type	Female
+1095293	COLORECTAL	Unknown	Male
+341866	HAEMONC	Unknown	Male
+273233	LUNG	Squamous Cell	Female
+1273654	BREAST	Unknown	Male
+852227	BREAST	Adenocarcinoma	Male
+1710299	ADULT_GLIOMA	Squamous Cell	Female
+2143489	HAEMONC	Ductal	Male
+94407	RENAL	Non Specified Renal Carcinoma	Male
+2003757	RENAL	Other	Male
+2267887	MALIGNANT_MELANOMA	Ductal	Male
+1420972	COLORECTAL	Squamous Cell	Female
+1895662	COLORECTAL	Myxoinflammatory Fibroblastic Sarcoma	Male
+1721702	OVARIAN	Ductal	Male
+263889	COLORECTAL	Ductal	Male
+36371	ADULT_GLIOMA	Unknown	Female
+165811	SARCOMA	Adenocarcinoma	Female
+153635	SARCOMA	Unknown	Male
+1790315	LUNG	Unknown	Male
+42287	SARCOMA	Other	Male
+1605487	COLORECTAL	Glioblastoma	Female
+1361261	ENDOMETRIAL_CARCINOMA	Not Available	Female
+2342942	COLORECTAL	(Aml) Acute Myeloid Leukaemia	Male
+1644942	RENAL	Ductal	Female
+2008536	BREAST	Unknown	Male
+2305190	LUNG	Clear Cell Carcinoma	Female
+1160256	BREAST	Adenocarcinoma	Female
+914861	UPPER_GASTROINTESTINAL	Adenocarcinoma	Female
+2083212	RENAL	Unknown	Male
+1711728	HEPATOPANCREATOBILIARY	Ductal	Female
+1736738	OVARIAN	Non-Hodgkins B Cell Lymphoma Low / Moderate Grade	Male
+2006131	CHILDHOOD	Unknown	Male
+37500	RENAL	Lobular	Male
+1180669	BLADDER	Endometrioid Carcinoma	Male
+1248989	LUNG	Ductal	Female
+291811	COLORECTAL	Unknown	Female
+1520039	BREAST	Adenocarcinoma	Male
+1522940	COLORECTAL	Squamous Cell	Male
+933286	COLORECTAL	Unknown	Male
+1448974	BREAST	(All) Acute Lymphoblastic Leukaemia	Male
+1227460	CHILDHOOD	Other	Male
+14684	COLORECTAL	Adenocarcinoma	Male
+2244993	LUNG	Endometrioid Carcinoma	Female
+2273517	SARCOMA	Endometrioid Carcinoma	Female
+1144163	COLORECTAL	Ductal	Male
+941664	SARCOMA	Glioblastoma	Male
+1372091	COLORECTAL	(Aml) Acute Myeloid Leukaemia	Female
+313737	SARCOMA	Cholangiocarcinoma	Male
+2087216	OVARIAN	Mucinous Carcinoma	Male
+1245543	COLORECTAL	Unknown	Female
+1560792	BREAST	Adenocarcinoma	Female
+1671314	HAEMONC	Other	Female
+1015951	LUNG	Pancreatic Adenocarcinoma	Female
+2184961	RENAL	Pleomorphic Sarcoma	Male
+246916	LUNG	Glioblastoma	Male
+1759859	OVARIAN	Squamous Cell	Male
+2278131	OVARIAN	Chronic Lymphocytic Leukaemia	Male
+312707	RENAL	Clear Cell Carcinoma	Female
+1555786	BREAST	Unknown	Female
+1767752	LUNG	Lobular	Male
+1726828	SARCOMA	Unknown	Female
+2077809	COLORECTAL	Lobular	Female
+1214868	ADULT_GLIOMA	Other	Female
+388750	SARCOMA	Neuroendocrine Carcinoma	Female
+1904794	COLORECTAL	Adenocarcinoma	Female
+1503775	BREAST	Lobular	Male
+578257	COLORECTAL	Other	Female
+958482	BREAST	Endometrioid Carcinoma	Female
+1107051	ADULT_GLIOMA	Adenocarcinoma	Male
+2348917	BREAST	Ductal	Male
+1396605	BREAST	Adenocarcinoma	Female
+1508340	RENAL	Adenocarcinoma	Male
+1088418	OVARIAN	Clear Cell Carcinoma	Female
+929513	OVARIAN	Ductal	Female
+461140	COLORECTAL	High Grade Serous Carcinoma	Male
+1398452	SARCOMA	Clear Cell Carcinoma	Male
+608664	COLORECTAL	Unknown	Female
+1827214	HAEMONC	Adenocarcinoma	Male
+862781	RENAL	Adenocarcinoma	Female
+104086	ORAL_OROPHARYNGEAL	Other	Male
+366149	SARCOMA	Papillary Type 2	Female
+2331355	COLORECTAL	(All) Acute Lymphoblastic Leukaemia	Male
+1836188	COLORECTAL	Synovial Sarcoma - Monophasic And Biphasic	Male
+513946	ENDOMETRIAL_CARCINOMA	Extraskeletal Chondrosarcoma	Male
+473346	RENAL	Ductal	Male
+417909	HAEMONC	Lobular	Female
+484754	ORAL_OROPHARYNGEAL	Adenocarcinoma	Female
+1356621	HAEMONC	Chronic Lymphocytic Leukaemia	Male
+512992	ENDOMETRIAL_CARCINOMA	Chronic Lymphocytic Leukaemia	Male
+1692713	OVARIAN	Glioblastoma	Female
+60447	ADULT_GLIOMA	Ductal	Female
+527395	COLORECTAL	Unknown	Male
+1254260	ENDOCRINE	Unknown	Female
+253069	PROSTATE	Other	Male
+1416849	UPPER_GASTROINTESTINAL	Glioblastoma	Male
+132592	COLORECTAL	Unknown	Male
+207272	COLORECTAL	Ductal	Male
+933164	COLORECTAL	Glioblastoma	Male
+1919452	HEPATOPANCREATOBILIARY	Adenocarcinoma	Male
+135248	RENAL	Childhood Other	Female
+1608480	OVARIAN	Unknown	Female
+1751193	COLORECTAL	Ductal	Female
+564932	COLORECTAL	Multiple Myeloma	Male
+904581	ADULT_GLIOMA	Lobular	Female
+2216173	COLORECTAL	Unknown	Male
+354686	BREAST	Unknown	Male
+368536	ADULT_GLIOMA	(Aml) Acute Myeloid Leukaemia	Female
+821801	RENAL	Adenocarcinoma	Female
+1517545	RENAL	Not Available	Female
+2028655	ADULT_GLIOMA	Adenocarcinoma	Male
+1438738	RENAL	Lobular	Male
+1622478	HEPATOPANCREATOBILIARY	Serous Carcinoma	Female
+533235	COLORECTAL	Unknown	Female
+1868197	ADULT_GLIOMA	Chronic Myeloid Leukaemia	Male
+972918	ADULT_GLIOMA	Adenocarcinoma	Male
+29835	COLORECTAL	Lobular	Female
+1829967	COLORECTAL	Adenocarcinoma	Male
+316926	RENAL	Other	Male
+884720	BREAST	Unknown	Female
+1005626	ADULT_GLIOMA	Unknown	Male
+1981820	COLORECTAL	Classical Seminoma	Male
+1716888	OVARIAN	Adenocarcinoma	Female
+1912213	HAEMONC	Adenocarcinoma	Male
+468696	BREAST	Ductal	Male
+1892445	HEPATOPANCREATOBILIARY	Adenocarcinoma	Male
+972057	UPPER_GASTROINTESTINAL	Lobular	Male
+1777582	BREAST	Adenocarcinoma	Female
+1863429	HAEMONC	Other	Male
+1522858	HAEMONC	Other	Male
+1404074	LUNG	Neuroendocrine Carcinoma	Female
+888771	SARCOMA	Ductal	Male
+1404535	BREAST	Other	Male
+784576	BREAST	Myelodysplastic Syndrome (High Risk)	Male
+39787	OVARIAN	Squamous Cell	Male
+1626180	ADULT_GLIOMA	Adenocarcinoma	Female
+112871	RENAL	Low Grade Serous Adenocarcinoma	Male
+2293650	PROSTATE	Lobular	Male
+1610249	OVARIAN	Unknown	Male
+1642352	ADULT_GLIOMA	Unknown	Female
+997064	COLORECTAL	Ductal	Female
+63096	ADULT_GLIOMA	Unknown	Female
+1247839	RENAL	Adenocarcinoma	Female
+1740437	BREAST	Other	Female
+1932377	PROSTATE	Ductal	Male
+867812	HEPATOPANCREATOBILIARY	Adenocarcinoma	Male
+1661721	OVARIAN	Oncocytic	Female
